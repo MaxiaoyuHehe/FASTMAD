@@ -1,5 +1,5 @@
 # FASTMAD
-This work accelerate the calculating speed of 'Most Apparent Distortion, MAD' published in "Larson E C, Chandler D M. Most apparent distortion: full-reference image quality assessment and the role of strategy[J]. Journal of electronic imaging, 2010, 19(1): 011006."
+This work accelerates the calculating speed of 'Most Apparent Distortion, MAD' published in "Larson E C, Chandler D M. Most apparent distortion: full-reference image quality assessment and the role of strategy[J]. Journal of electronic imaging, 2010, 19(1): 011006."
 
 We employ the convolutional operation to optimize the time-consuming procedure of block-wise statistical information extraction (e.g., mean, std, skr...)
 
